@@ -10,9 +10,7 @@ Sem mais delongas...
 
 Primeira coisa a ser verificada é se o seu Windows está atualizado, para as ferramentas que queremos instalar rodem de forma correta é preciso ter o Windows 10 em sua versão atualizada ou uma versão maior que 2004. É recomendado que a  máquina tenha pelo menos 8GB de memória RAM, ele até roda com 4GB mas, de forma bem lenta.
 
-A atualização do sistema pode ser feita através do seguinte link:
-
-[atualizacao_sistema_windowns](https://www.microsoft.com/pt-br/software-download/windows10)
+A atualização do sistema pode ser feita através do seguinte link: https://www.microsoft.com/pt-br/software-download/windows10
 
 
 **Terminal**
