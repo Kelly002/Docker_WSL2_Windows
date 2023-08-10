@@ -63,9 +63,7 @@ Agora, vamos para a instalação do Linux, no Windows Store digitamos 'Linux' e 
 
 **Download do Docker**
 
-Vamos fazer a instalação do Docker, utilizando o seguinte link:
-
-https://hub.docker.com/editions/community/docker-ce-desktop-windows/
+Vamos fazer a instalação do Docker, utilizando o seguinte link: https://hub.docker.com/editions/community/docker-ce-desktop-windows/
 
 
 ![imagem_instalacao_docker](https://github.com/Kelly002/Docker_WSL2_Windows/blob/main/imagem6.png)
@@ -75,7 +73,7 @@ Feito a instalação do Docker é preciso fazer o logout e login da máquina.
 
 **Configurações do Docker**
 
-Para isso nós vamos em *Settings, *Resourchs, WSL Inplantion e vamos selecionar as opções que você quer que o Docker rode de maneira integrada com o seu sistema. No meu caso eu aproveitei e instalei também o Debian, o Alpine e o Linux.
+Para isso, nós vamos em *Settings, *Resourchs, WSL Inplantion e vamos selecionar as opções que você quer que o Docker rode de maneira integrada com o seu sistema. No meu caso eu aproveitei e instalei também o Debian, o Alpine e o Linux.
 
 
 ![imagem_sistema](https://github.com/Kelly002/Docker_WSL2_Windows/blob/main/imagem7.png)
