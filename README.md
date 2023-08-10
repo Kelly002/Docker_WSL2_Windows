@@ -21,18 +21,18 @@ Parece ser apenas um detalhe, mas não é… Na primeira vez que tentei entrar p
 
 Para isso, basta entrar no Store da Microsoft e digitar: Windows Terminal
 
-![imagem_terminal]()
+![imagem_terminal](https://github.com/Kelly002/Docker_WSL2_Windows/blob/main/imagem1.png)
 
 Ele será muito útil, pois pela seta +, você vai conseguir abrir o terminal do Linux, depois que ele já estiver instalado. Assim como outros sistemas, tudo em um lugar.
 
-![foto_terminal]()
+![foto_terminal](https://github.com/Kelly002/Docker_WSL2_Windows/blob/main/imagem2.png)
 
 **Habilitando o Windows**
 
 Para dar continuidade será necessário habilitar algumas opções no sistema Windows. Vá até o Painel de Controle, Programas, Ativar e desativar recursos do Windows. 
 Selecione: Plataforma de máquina virtual, Plataforma do Hipervisor Windows e Subsistema de Windows para Linux
 
-![foto_subsistema]()
+![foto_subsistema](https://github.com/Kelly002/Docker_WSL2_Windows/blob/main/imagem3.png)
 
 Desta forma, vamos conseguir trabalhar com o Linux dentro de uma máquina virtual que trabalhe dentro do sistema Windows.
 
