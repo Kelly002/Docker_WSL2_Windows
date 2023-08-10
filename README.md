@@ -12,7 +12,7 @@ Primeira coisa a ser verificada é se o seu Windows está atualizado, para as fe
 
 A atualização do sistema pode ser feita através do seguinte link:
 
-[atualizacao_windowns](https://www.microsoft.com/pt-br/software-download/windows10)
+[atualizacao_sistema_windowns](https://www.microsoft.com/pt-br/software-download/windows10)
 
 
 **Terminal**
@@ -21,11 +21,15 @@ Parece ser apenas um detalhe, mas não é… Na primeira vez que tentei entrar p
 
 Para isso, basta entrar no Store da Microsoft e digitar: Windows Terminal
 
+
 ![imagem_terminal](https://github.com/Kelly002/Docker_WSL2_Windows/blob/main/imagem1.png)
 
-Ele será muito útil, pois pela seta +, você vai conseguir abrir o terminal do Linux, depois que ele já estiver instalado. Assim como outros sistemas, tudo em um lugar.
+
+Ele será muito útil, pois pela seta +, você vai conseguir abrir o terminal do Linux, depois que ele já estiver instalado. Assim como outros sistemas, tudo em um único lugar.
+
 
 ![foto_terminal](https://github.com/Kelly002/Docker_WSL2_Windows/blob/main/imagem2.png)
+
 
 **Habilitando o Windows**
 
@@ -39,6 +43,7 @@ Desta forma, vamos conseguir trabalhar com o Linux dentro de uma máquina virtua
 **Instalação do WSL**
 
 Agora vamos fazer o download do kernel do WSL2, que é o subsistema Linux para Windows,  pelo seguinte site:
+
 [kernel_WSL2](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi)
 
 
@@ -54,7 +59,9 @@ Feita a instalação vamos agora definir a versão 2 do WSL, digitando o seguint
 
 Agora, vamos para a instalação do Linux, no Windows Store digitamos 'Linux' e vamos pegar o Ubuntu LTS.
 
+
 ![imagem_docker](https://github.com/Kelly002/Docker_WSL2_Windows/blob/main/imagem4.png)
+
 
 **Download do Docker**
 
@@ -62,7 +69,9 @@ Vamos fazer a instalação do Docker, utilizando o seguinte link:
 
 https://hub.docker.com/editions/community/docker-ce-desktop-windows/
 
+
 ![imagem_instalacao_docker](https://github.com/Kelly002/Docker_WSL2_Windows/blob/main/imagem6.png)
+
 
 Feito a instalação do Docker é preciso fazer o logout e login da máquina.
 
@@ -70,15 +79,21 @@ Feito a instalação do Docker é preciso fazer o logout e login da máquina.
 
 Para isso nós vamos em *Settings, *Resourchs, WSL Inplantion e vamos selecionar as opções que você quer que o Docker rode de maneira integrada com o seu sistema. No meu caso eu aproveitei e instalei também o Debian, o Alpine e o Linux.
 
+
 ![imagem_sistema](https://github.com/Kelly002/Docker_WSL2_Windows/blob/main/imagem7.png)
+
 
 Para testarmos podemos abrir o terminal do Ubuntu (basta ir na seta ao lado do sinal “+” e abrir o terminal do Ubuntu) e rodar o Docker.
 
+
 ![imagem_terminal1](https://github.com/Kelly002/Docker_WSL2_Windows/blob/main/imagem8.png)
+
 
 Pronto, cluster erguido com com sucesso.
 
+
 ![imagem_terminal2](https://github.com/Kelly002/Docker_WSL2_Windows/blob/main/imagem9.png)
+
 
 Espero que este meu tutorial te ajude e que você consiga prosseguir nessa nossa jornada de novos aprendizados.
 
