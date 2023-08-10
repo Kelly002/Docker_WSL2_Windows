@@ -54,7 +54,7 @@ Feita a instalação vamos agora definir a versão 2 do WSL, digitando o seguint
 
 Agora, vamos para a instalação do Linux, no Windows Store digitamos 'Linux' e vamos pegar o Ubuntu LTS.
 
-[imagem_docker]()
+![imagem_docker](https://github.com/Kelly002/Docker_WSL2_Windows/blob/main/imagem4.png)
 
 **Download do Docker**
 
@@ -62,7 +62,7 @@ Vamos fazer a instalação do Docker, utilizando o seguinte link:
 
 https://hub.docker.com/editions/community/docker-ce-desktop-windows/
 
-[imagem_instalacao_docker]()
+![imagem_instalacao_docker](https://github.com/Kelly002/Docker_WSL2_Windows/blob/main/imagem6.png)
 
 Feito a instalação do Docker é preciso fazer o logout e login da máquina.
 
@@ -70,15 +70,15 @@ Feito a instalação do Docker é preciso fazer o logout e login da máquina.
 
 Para isso nós vamos em *Settings, *Resourchs, WSL Inplantion e vamos selecionar as opções que você quer que o Docker rode de maneira integrada com o seu sistema. No meu caso eu aproveitei e instalei também o Debian, o Alpine e o Linux.
 
-[imagem_sistema]()
+![imagem_sistema](https://github.com/Kelly002/Docker_WSL2_Windows/blob/main/imagem7.png)
 
 Para testarmos podemos abrir o terminal do Ubuntu (basta ir na seta ao lado do sinal “+” e abrir o terminal do Ubuntu) e rodar o Docker.
 
-[imagem_terminal1]()
+![imagem_terminal1](https://github.com/Kelly002/Docker_WSL2_Windows/blob/main/imagem8.png)
 
 Pronto, cluster erguido com com sucesso.
 
-[imagem_terminal2]()
+![imagem_terminal2](https://github.com/Kelly002/Docker_WSL2_Windows/blob/main/imagem9.png)
 
 Espero que este meu tutorial te ajude e que você consiga prosseguir nessa nossa jornada de novos aprendizados.
 
